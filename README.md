@@ -15,7 +15,7 @@ be configured soon.
 
 Hermes is still in a beta state and may receive updates in the future. You can find some screenshots of the app in action down below.
 
-![image] (https://github.com/charsterekt/Hermes-chat-app/blob/main/screenshots/athena.png)
-![image] (https://github.com/charsterekt/Hermes-chat-app/blob/main/screenshots/home.png)
-![image] (https://github.com/charsterekt/Hermes-chat-app/blob/main/screenshots/search.png)
-![image] (https://github.com/charsterekt/Hermes-chat-app/blob/main/screenshots/chat.png)
+![image](https://github.com/charsterekt/Hermes-chat-app/blob/main/screenshots/athena.png)
+![image](https://github.com/charsterekt/Hermes-chat-app/blob/main/screenshots/home.png)
+![image](https://github.com/charsterekt/Hermes-chat-app/blob/main/screenshots/search.png)
+![image](https://github.com/charsterekt/Hermes-chat-app/blob/main/screenshots/chat.png)
