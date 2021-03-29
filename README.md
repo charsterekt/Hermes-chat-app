@@ -13,7 +13,8 @@ Hermes comes with its own in-built chatbot named Athena. Athena works independen
 to handle small talk, but these intents can be updated seamlessly without needing to update the app as all the changes take place in the Dialogflow backend. More intents should
 be configured soon. 
 
-Hermes is still in a beta state and may receive updates in the future. You can find some screenshots of the app in action down below.
+Hermes is still in a beta state and may receive updates in the future. You can find some screenshots of the app in action down below. The apk file has also been attached for
+download.
 
 ![image](https://github.com/charsterekt/Hermes-chat-app/blob/main/screenshots/athena.png)
 ![image](https://github.com/charsterekt/Hermes-chat-app/blob/main/screenshots/home.png)
